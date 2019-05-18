@@ -1,0 +1,3 @@
+x=int("Enter x: ")
+y=int("Enter y: ")
+print("x+y",x+y)
